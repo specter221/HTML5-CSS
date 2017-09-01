@@ -1,0 +1,54 @@
+.container_12
+{
+    background-color: grey;
+    color: white;
+}
+nav li
+{
+   padding-left: 20px;
+   display: inline;
+   padding-top: 10px;
+}
+a
+{
+    color: white;
+    text-decoration: none;
+}
+header
+{
+padding-top: 5px;
+height: 20px;
+width: 100%;
+}
+
+
+h1
+{
+    font-size: 50px;
+    margin-top: 5px;
+    font-family: 'PT Serif', serif;
+    letter-spacing: 5px;
+    color: white;
+}
+
+nav
+{
+
+   padding-top: 0;
+   padding-left:350px;
+
+}
+
+
+
+nav li a:hover 
+{
+    background-color: #111;own;
+}
+
+
+.trav
+{
+width:1286px;height:450px;
+
+}
