@@ -1,8 +1,7 @@
 .container_12
 {
-    background-color: DarkSeaGreen;
+    background-color: grey;
     color: white;
-    width:100%;
 }
 nav li
 {
@@ -11,22 +10,16 @@ nav li
    padding-top: 20px;
    padding-bottom: 20px;
 }
-
 a
 {
     color: white;
     text-decoration: none;
 }
-
 header
 {
 padding-top: 0;
 height: 20px;
 width: 100%;
-}
-
-.heading{
-	font-family: 'Abel',serif;
 }
 
 
@@ -44,24 +37,10 @@ nav
 
    padding-top: 0;
    padding-bottom: 0;
-   padding-left:650px;
+   padding-left:350px;
+
 }
 
-.left2{
-	float:left;
-}
-
-.right2{
-	float:right;
-}
-
-.center2{
-	margin-left:160px;
-}
- 
- .right3{
- 	float:right;
- }
 
 
 nav li a:hover 
@@ -75,14 +54,14 @@ nav li a:hover
 width:1286px;height:450px;
 
 }
-
 .left{
 	float:left;
 }
-
 .center{
 	margin-left:550px;
 }
+
+
 
 .right{
 	float:right;
@@ -91,49 +70,49 @@ width:1286px;height:450px;
 .push_4{
 	color: black;
 }
-
 .link1{
 	color: blue;
-	font-size:60px;
 }
-
 .link2{
 	color: blue;
-	font-size:60px;
 }
 
 .link3{
 	color: red;
-	font-size:60px;
 }
 
-.link4{
-	color:pink;
-	font-size:60px;
-}
+
 
 .footer{
 		border: 1px solid black;
-		background-color:PaleGoldenRod ;
+		background-color: #9ad6e3;
 		padding-bottom: 3px;
 		padding-top: 2px;
 		padding-left: 300px;
 		padding-right: 250px;
-		margin-left: 250px;
+		margin-left: 300px;
 	}
 
 
+
+
+
+/* The hero image */
 .hero-image {
-    
+    /* The image used */
     background-image: url(../image/world.jpg);
-     height: 100%;
+
+    /* Set a specific height */
+    height: 50%;
+
+    /* Position and center the image to scale nicely on all screens */
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
 }
 
-
+/* Place text in the middle of the image */
 .hero-text {
     text-align: center;
     position: absolute;
@@ -143,28 +122,6 @@ width:1286px;height:450px;
     color: black;
 }
 
-.para{
-margin-left: 30px;
 
-}
-
-form li{
-	list-style: none;
-	margin-bottom: 20px;
-}
-
-form ul{
-	padding-left: 0;
-
-}
-
-label {
-	display: block;
-}
-
-textarea{
-	width: 300px;
-	height: 200px;
-}
 
 
